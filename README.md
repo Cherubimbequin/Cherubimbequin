@@ -1,4 +1,3 @@
-[![MasterHead]([https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?w=1380&t=st=1669539916~exp=1669540516~hmac=24750a2e7c6c9089c6371374aff1ddde2a27558ad2fe3f5f2c97662dab153f58](https://www.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_25001216.htm#fromView=search&page=1&position=52&uuid=a096cf3d-073d-4f59-958f-7155b99680a3))]
 <h1 align="center">Hi 👋, I'm Cherubim Etornam Bequin</h1>
 <h3 align="center">A passionate Tech Enthusiast from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/cherubim_bequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubim_bequin?logo=twitter&style=for-the-badge" alt="cherubimbequin" /></a> </p>
 
-- 🔭 I’m currently working on **A Talent Website**
+- 🔭 I’m currently working on **How To Centre A <div>**
 
 - 🌱 I’m currently learning **Laravel, Python, JavaScript, Flutter**
 
