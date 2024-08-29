@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherubimbequin&label=Profile%20views&color=0e75b6&style=flat" alt="cherubimbequin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cherubim_bequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubim_bequin?logo=twitter&style=for-the-badge" alt="cherubimbequin" /></a> </p>
+<p align="left"> <a href="https://x.com/cherubimbequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubimbequin?logo=x&style=for-the-badge" alt="cherubimbequin" /></a> </p>
 
 - 🔭 I’m currently working on **How To Centre A 'div'**
 
 - 🌱 I’m currently learning **Laravel, Python, JavaScript, Flutter**
 
-- 💬 Ask me about **Flutter, Web development**
+- 💬 Ask me about **Web development, Mobile App**
 
 - 📫 How to reach me **cherubimbequinetornam@gmail.com**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/cherubim_bequin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cherubim bequin" height="30" width="40" /></a>
+<a href="https://x.com/cherubimbequin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cherubim bequin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/cherubim-bequin-b5141522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherubimbequin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18035719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18035719" height="30" width="40" /></a>
 <a href="https://hashnode.com/@cherubimbequin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cherubimbequin" height="30" width="40" /></a>
