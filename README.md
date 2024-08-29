@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Tech Enthusiast from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherubimbequin&label=Profile%20views&color=0e75b6&style=flat" alt="cherubimbequin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherubimbequin&label=Profile%20views&color=0e75b6&style=flat" alt="Cherubimbequin" /> </p>
 
-<p align="left"> <a href="https://x.com/cherubimbequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubimbequin?logo=x&style=for-the-badge" alt="cherubimbequin" /></a> </p>
+<p align="left"> <a href="https://x.com/cherubimbequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubimbequin?logo=x&style=for-the-badge" alt="Cherubimbequin" /></a> </p>
 
 - 🔭 I’m currently working on **How To Centre A 'div'**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/cherubimbequin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cherubim bequin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cherubim-bequin-b5141522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherubimbequin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cherubim-bequin-b5141522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cherubimbequin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18035719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18035719" height="30" width="40" /></a>
 <a href="https://hashnode.com/@cherubimbequin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cherubimbequin" height="30" width="40" /></a>
 </p>
@@ -29,8 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherubimbequin&show_icons=true&locale=en&layout=compact" alt="cherubimbequin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cherubimbequin&show_icons=true&locale=en&layout=compact" alt="Cherubimbequin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherubimbequin&show_icons=true&locale=en" alt="cherubimbequin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cherubimbequin&show_icons=true&locale=en" alt="Cherubimbequin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherubimbequin&" alt="cherubimbequin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherubimbequin&" alt="Cherubimbequin" /></p>
