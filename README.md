@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/cherubim_bequin" target="blank"><img src="https://img.shields.io/twitter/follow/cherubim_bequin?logo=twitter&style=for-the-badge" alt="cherubimbequin" /></a> </p>
 
-- 🔭 I’m currently working on **How To Centre A <div>**
+- 🔭 I’m currently working on **How To Centre A 'div'**
 
 - 🌱 I’m currently learning **Laravel, Python, JavaScript, Flutter**
 
