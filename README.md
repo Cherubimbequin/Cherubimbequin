@@ -33,4 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cherubimbequin&show_icons=true&locale=en" alt="Cherubimbequin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherubimbequin&" alt="Cherubimbequin" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Cherubimbequin&theme=light&hide_border=false" alt="Cherubimbequin" /></p>
+
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cherubimbequin" /></p>
+
